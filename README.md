@@ -1,1 +1,1 @@
-These are just some of first simple projects using javascript basics.
+These are just some of my first, very bsaic projects using javascript basics.
